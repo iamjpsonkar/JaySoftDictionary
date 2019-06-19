@@ -8,4 +8,4 @@ It mainly uses Tkinter and JSON modules of python.
 This Dictionary asks the user to enter a word and then find the meaning of that word in the application.
 
 
-![alt text](https://github.com/iamjpsonkar/JaySoftDictionary/blob/master/1.png)
+![alt text](https://github.com/iamjpsonkar/JaySoftDictionary/blob/master/2.png)
